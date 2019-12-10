@@ -1,0 +1,11 @@
+button{
+  color: blueviolet;
+  border-color: transparent;
+  color: blueviolet;
+  cursor: pointer;
+}
+
+body {
+  background:white;
+  font-family: 'Open Sans', sans-serif;
+}

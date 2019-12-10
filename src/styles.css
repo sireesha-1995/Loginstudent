@@ -1,0 +1,13 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+@import  url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+body {
+    background:white;
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+  padding-top: 80px;
+  }
+  .template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  }
